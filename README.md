@@ -14,8 +14,9 @@ Membuat tabel master untuk dashboard dengan:
 2. **Import ke BigQuery**:  
    - Buat dataset `kimia_farma_analysis`.  
    - Upload file CSV/Excel.  
-3. **Eksekusi SQL**: Jalankan query di [BigQuery Console](https://console.cloud.google.com/bigquery).  
-4. **Buat Dashboard**:  
+3. **Eksekusi SQL**: Jalankan query di [BigQuery Console](https://console.cloud.google.com/bigquery).
+    - Contoh query tersedia di folder `/bigquery_sql`. 
+5. **Buat Dashboard**:  
    - Gunakan Looker Studio dengan koneksi ke BigQuery.  
-   - Contoh query tersedia di folder `/Bigquary_sql`.  
+   
 
