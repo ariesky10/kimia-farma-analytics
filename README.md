@@ -10,7 +10,7 @@ Membuat tabel master untuk dashboard dengan:
 
 
 ### Panduan Penggunaan
-1. **Download Dataset**: [Link Dataset](https://example.com/dataset-kimia-farma).  
+1. **Download Dataset**: [Link Dataset](https://drive.google.com/drive/folders/1v7nC7YJHhTnOWLpcn2bILVniVYZSYoZ5?usp=sharing).  
 2. **Import ke BigQuery**:  
    - Buat dataset `kimia_farma_analysis`.  
    - Upload file CSV/Excel.  
